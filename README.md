@@ -1,4 +1,4 @@
-<strong> Nancy Zhu </strong>
+<h1> Nancy Zhu </h1>
 <nav class="menu">
   <ul>
     <li><a href="https://nanczhu.github.io/nancyzhu.github.io/">Home</a></li>
